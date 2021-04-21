@@ -4,8 +4,6 @@
 Written by Mike Kaufman for Medium.com, "Reading from Firebase in React.js"
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
