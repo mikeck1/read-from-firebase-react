@@ -1,4 +1,4 @@
-### Author
+## Author
 
 
 Written by Mike Kaufman for Medium.com, "Reading from Firebase in React.js"
